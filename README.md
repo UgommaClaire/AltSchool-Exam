@@ -1,2 +1,2 @@
 # AltSchool-Exam
-Second semester exam of a landing page 
+Second semester exam in AltSchool
