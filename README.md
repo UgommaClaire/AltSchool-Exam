@@ -1,2 +1,2 @@
 # AltSchool-Exam
-Second semester exam in AltSchool
+AltSchool second semester exam
