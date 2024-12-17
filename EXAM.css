@@ -1,0 +1,80 @@
+CSS EXAM.css
+/* General Reset */
+body, h1, h2, p, ul {
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #f4f4f4;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background-color: rgba(12, 66, 73, 0.1);
+  color: #fff;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+/* Main Content */
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  background: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+/* Sections */
+section {
+  margin-bottom: 2rem;
+}
+
+.intro h2 {
+  color: #280b50;
+  margin-bottom: 0.5rem;
+}
+
+.welcome h1 {
+  color: #280b50;
+  margin-bottom: 0.5rem;
+}
+
+.details ul {
+  list-style-type: square;
+  margin-left: 1.5rem;
+}
+
+.contact a {
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.LinkedIn-logo {
+  width: 20px;
+  height: 20px;
+  vertical-align:text-bottom;
+margin: left 2px;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem 0;
+  background:#202325;
+  color: white;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  border-radius: 0 0 8px 8px;
+}
